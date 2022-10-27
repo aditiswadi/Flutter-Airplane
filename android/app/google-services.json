@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "785822661226",
+    "project_id": "airplane-bloc-7a88b",
+    "storage_bucket": "airplane-bloc-7a88b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785822661226:android:2e30713a46ea5b58b6a813",
+        "android_client_info": {
+          "package_name": "com.aditiswadi.airplane_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785822661226-64r979e1ngkjrrti19r1p4aoccgo7ms6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzkHT9BtXjyaV1tCB5AUe5xOdAyB0g9iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785822661226-64r979e1ngkjrrti19r1p4aoccgo7ms6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785822661226-qm7nn6ts6tmi9uim6984v5qf5nufaaqk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aditiswadi.airplaneBloc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
